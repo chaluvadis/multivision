@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "morgan": "^1.8.1",
     "pug": "^2.0.0-beta11"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5"
   }
 }
